@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(232, 227, 227);
+     /* display: flex; */
+}
+
+
+main{
+    background-color: rgb(205, 91, 91);
+    width: 500px;
+    height: 600px;
+    border: 1px black solid;
+    border-radius: 20px 20px;
+    margin: auto;
+}
+
+
+h1{
+    text-align: center;
+}
+
+
+h2{
+text-align: center;
+}
+
+
+nav{
+    background-color: rgb(156, 159, 159);
+
+}
+
+
+ul{
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+}
+
+
+li{
+list-style-type: none;
+text-decoration: none;
+color: black;
+}
+
